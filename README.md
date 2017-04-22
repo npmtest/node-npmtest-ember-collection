@@ -1,4 +1,7 @@
-# test coverage for  [ember-collection (v1.0.0-alpha.7)](https://github.com/emberjs/ember-collection#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-ember-collection.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ember-collection) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ember-collection.svg)](https://travis-ci.org/npmtest/node-npmtest-ember-collection)
+# npmtest-ember-collection
+
+#### basic test-coverage for  [ember-collection (v1.0.0-alpha.7)](https://github.com/emberjs/ember-collection#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-ember-collection.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ember-collection) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ember-collection.svg)](https://travis-ci.org/npmtest/node-npmtest-ember-collection)
+
 #### An efficient incremental rendering component with custom layouts and support for large lists.
 
 [![NPM](https://nodei.co/npm/ember-collection.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/ember-collection)
@@ -123,7 +126,8 @@
         "start": "ember server",
         "test": "ember try:testall"
     },
-    "version": "1.0.0-alpha.7"
+    "version": "1.0.0-alpha.7",
+    "bin": {}
 }
 ```
 
